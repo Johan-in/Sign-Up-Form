@@ -35,6 +35,7 @@
     display: flex;
     flex-direction: column;
     background-color: #fafafa;
+    margin-top: 15px;
     width: 100vh;
     
   }
@@ -60,7 +61,7 @@
     flex-direction: row;
     justify-content: space-between;
     margin-left: 50px;
-    width: 60%;
+    width: 80%;
     
     
     
