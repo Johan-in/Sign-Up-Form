@@ -35,7 +35,7 @@
     display: flex;
     flex-direction: column;
     background-color: #fafafa;
-    width: 100vh;
+    width: 100vw;
     
   }
 
@@ -50,17 +50,17 @@
 
   .second {
     background-color: white;
-    height: 37vh;
+    height: 40vh;
     align-items: center;
-    box-shadow: 2px 3px #e5e7eb;
+    box-shadow: 2px 5px #e5e7eb;
   }
 
   .form-main-div {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-left: 20px;
-    width: 60vh;
+    margin-left: 50px;
+    width: 70vh;
     
     
     
@@ -117,12 +117,12 @@
 
   .third {
     
-    margin-left: 20px;
+    margin-left: 50px;
     margin-top: 25px;
   }
 
   .hyperlink {
-    margin-left: 20px;
+    margin-left: 50px;
     margin-top: 25px;
   }
   
